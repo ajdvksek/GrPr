@@ -1,9 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T02:59:55.537Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" version="24.1.0" etag="Q8y-pbzVNPTo5nBnayCJ" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-29T04:48:57.558Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="CEsq_wFZ8445nj7xdIbc" version="24.2.1" type="github">
   <diagram name="페이지-1" id="-0c5bPcQEkrFXeQGqIGl">
-    <mxGraphModel>
+    <mxGraphModel dx="1002" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="tSJCLI3BF2Iokh18Yibd-1" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="120" width="10" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="tSJCLI3BF2Iokh18Yibd-2" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="120" width="10" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="tSJCLI3BF2Iokh18Yibd-7" value="소비자가 커스텀한&amp;nbsp;&lt;div&gt;3D건물 도면 및 인테리어 시뮬레이션 저장&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="600" y="370" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tSJCLI3BF2Iokh18Yibd-6" value="소비자와 판매자 사이 거래 정보 저장 및 제공" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="600" y="300" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tSJCLI3BF2Iokh18Yibd-3" value="건물의 도면 정보 및 가구 카탈로그 정보 저장" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="600" y="230" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tSJCLI3BF2Iokh18Yibd-10" value="소비자 사진정보와 건물 도면정보로&lt;div&gt;&amp;nbsp;3D 도면 생성&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="230" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tSJCLI3BF2Iokh18Yibd-11" value="소비자의 요구사항에 적합한 판매자 리스트 제공" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="310" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tSJCLI3BF2Iokh18Yibd-12" value="소비자와 판매자간의 실시간 채팅 기능 제공" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="470" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tSJCLI3BF2Iokh18Yibd-13" value="소비자의 선택을 도와줄 판매자의 시공 히스토리 제공" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="390" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tSJCLI3BF2Iokh18Yibd-14" value="소비자" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile;pointerEvents=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="110" y="119.99999999999999" width="35" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tSJCLI3BF2Iokh18Yibd-16" value="- 건물 사진 제공&lt;div&gt;- 3D 도면 위에 자신만의 인테리어 제작&lt;/div&gt;&lt;div&gt;- 제작 도면을 기반으로 시공을 맡아줄 판매자 선택&lt;/div&gt;&lt;div&gt;- 해당 시공사에 대한 후기 및 리뷰 제공&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="67.5" y="195" width="120" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="tSJCLI3BF2Iokh18Yibd-18" value="판매자" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile;pointerEvents=1;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="110" y="380" width="35" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tSJCLI3BF2Iokh18Yibd-19" value="- 시공 가능한 인테리어 모델 정보 제공&lt;div&gt;- 매칭된 소비자 정보를 기반으로 견적 및 시공 기간 등의 정보 제시&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="67.5" y="455" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tSJCLI3BF2Iokh18Yibd-20" value="App" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=14;image=img/lib/mscae/App_Services.svg;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="380" y="120" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tSJCLI3BF2Iokh18Yibd-21" value="DB" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="655" y="125.45" width="40" height="39.1" as="geometry" />
+        </mxCell>
+        <mxCell id="tSJCLI3BF2Iokh18Yibd-30" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;fillColor=#6C67FC;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="215" y="230" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tSJCLI3BF2Iokh18Yibd-32" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;fillColor=#6C67FC;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="470" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tSJCLI3BF2Iokh18Yibd-33" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;fillColor=#6C67FC;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="325" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
